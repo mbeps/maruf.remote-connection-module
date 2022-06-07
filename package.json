@@ -1,0 +1,19 @@
+{
+    "name": "remote-connection-extension-pack",
+    "displayName": "Remote Connection Extension Pack",
+    "description": "Collection of extensions for remote connections only",
+    "version": "0.0.1",
+    "publisher": "Maruf",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-vscode-remote.remote-containers",
+		"ms-vscode-remote.remote-ssh",
+		"ms-vscode-remote.remote-ssh-editor",
+		"ms-vscode.remote-repositories"
+    ]
+}
