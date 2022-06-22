@@ -1,6 +1,6 @@
 {
-    "name": "remote-connection-extension-pack",
-    "displayName": "Remote Connection Extension Pack",
+    "name": "remote-connection-module",
+    "displayName": "Remote Connection Module",
     "description": "Collection of extensions for remote connections only",
     "version": "0.0.1",
     "publisher": "Maruf",
