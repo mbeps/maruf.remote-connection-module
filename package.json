@@ -2,7 +2,7 @@
     "name": "remote-connection-module",
     "displayName": "Remote Connection Module",
     "description": "Collection of extensions for remote connections only",
-    "version": "0.0.1",
+    "version": "2.0.0",
     "publisher": "Maruf",
     "repository": "https://github.com/mbeps/maruf.remote-connection-module",
     "engines": {
@@ -11,12 +11,13 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "ms-vscode-remote.remote-containers",
-		"ms-vscode-remote.remote-ssh",
-		"ms-vscode-remote.remote-ssh-editor",
-		"ms-vscode.remote-repositories",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-editor",
+        "ms-vscode.remote-repositories",
         "GitHub.remotehub",
-        "ms-vscode.remote-server"
+        "ms-vscode.remote-server",
+        "Kelvin.vscode-sshfs"
     ]
 }
